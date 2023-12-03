@@ -1,0 +1,14 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todoapp exercises",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js"
+  },
+  "author": "shan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
